@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912083"
+  },
+  "category": "Non-Veg Pizza"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912084"
+  },
+  "category": "Veg Pizza"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912085"
+  },
+  "category": "Pizza Mania"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912086"
+  },
+  "category": "Sides and Beverages"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912087"
+  },
+  "category": "Pizzas"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912088"
+  },
+  "category": "Burgers & Wraps"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912089"
+  },
+  "category": "Snacks & sides"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208a"
+  },
+  "category": "Sides"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208b"
+  },
+  "category": "Burgers"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208c"
+  },
+  "category": "Whopper"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208d"
+  },
+  "category": "Chicken Wings"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208e"
+  },
+  "category": "Desserts"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91208f"
+  },
+  "category": "Beverages"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912090"
+  },
+  "category": "Twin Combo Packs"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912091"
+  },
+  "category": "Scoops"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912092"
+  },
+  "category": "Icecream Cakes"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912093"
+  },
+  "category": "Sundaes"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912094"
+  },
+  "category": "Icecream Sandwich"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912095"
+  },
+  "category": "Super-Duper Thick Shakes"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912096"
+  },
+  "category": "Featured Drinks"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912097"
+  },
+  "category": "Freshly Brewed Coffee"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912098"
+  },
+  "category": "Crème Frappuccino®"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb912099"
+  },
+  "category": "Cold Brew"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209a"
+  },
+  "category": "Espresso"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209b"
+  },
+  "category": "Coffee Frappuccino®"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209c"
+  },
+  "category": "Teavana® Tea"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209d"
+  },
+  "category": "Signature Wraps"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209e"
+  },
+  "category": "All Sandwiches"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb91209f"
+  },
+  "category": "Breakfast"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb9120a0"
+  },
+  "category": "Salads"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb9120a1"
+  },
+  "category": "Snacks"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb9120a2"
+  },
+  "category": "Sides & Drinks"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb9120a3"
+  },
+  "category": "Chicken"
+},
+{
+  "_id": {
+    "$oid": "6655d08fdb86a312fb9120a4"
+  },
+  "category": "Rice Bowls"
+}]

@@ -1,0 +1,242 @@
+[
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312851"
+      },
+      "id": "100",
+      "name": "McDonalds",
+      "type": "Take-Away",
+      "tags": [
+          "burgers",
+          "chicken",
+          "coffee",
+          "tea",
+          "drinks",
+          "pizza",
+          "sesserts",
+          "chocolate",
+          "sundae",
+          "paneer",
+          "nuggets"
+      ],
+      "location": "13A Street, New york",
+      "distance": 5000,
+      "time": 30,
+      "images": {
+          "logo": "mcdonalds",
+          "poster": "mcdonalds",
+          "cover": "burgers"
+      },
+      "categories": [
+          "6655d08fdb86a312fb912088",
+          "6655d08fdb86a312fb912089",
+          "6655d08fdb86a312fb91208e",
+          "6655d08fdb86a312fb91208f"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312852"
+      },
+      "id": "101",
+      "name": "Burger King",
+      "type": "Dine-In",
+      "tags": [
+          "burgers",
+          "chicken",
+          "veg",
+          "grilled",
+          "fries"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 3900,
+      "time": 25,
+      "images": {
+          "logo": "burgerking",
+          "poster": "burgerking",
+          "cover": "burgerking"
+      },
+      "categories": [
+          "6655d08fdb86a312fb91208b",
+          "6655d08fdb86a312fb91208c",
+          "6655d08fdb86a312fb91208d",
+          "6655d08fdb86a312fb91208a"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312853"
+      },
+      "id": "102",
+      "name": "Dominos Pizza",
+      "type": "Dine-In",
+      "tags": [
+          "pizza",
+          "chicken",
+          "barbeque",
+          "sausage",
+          "indian",
+          "veg",
+          "mexican",
+          "paneer",
+          "bread"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 6300,
+      "time": 35,
+      "images": {
+          "logo": "dominos",
+          "poster": "dominos",
+          "cover": "dominospizza"
+      },
+      "categories": [
+          "6655d08fdb86a312fb912083",
+          "6655d08fdb86a312fb912084",
+          "6655d08fdb86a312fb912085",
+          "6655d08fdb86a312fb912086"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312854"
+      },
+      "id": "103",
+      "name": "Pizza Hut",
+      "type": "Dine-In",
+      "tags": [
+          "Pizza",
+          "American Foods",
+          "Chicken",
+          "Meat"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 5560,
+      "time": 31,
+      "images": {
+          "logo": "pizzahut",
+          "poster": "pizzahut",
+          "cover": "pizzahut"
+      },
+      "categories": [
+          "6655d08fdb86a312fb912087",
+          "6655d08fdb86a312fb91208a",
+          "6655d08fdb86a312fb91208e",
+          "Drinks"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312855"
+      },
+      "id": "104",
+      "name": "Baskin Robins",
+      "type": "Take-Away",
+      "tags": [
+          "Icecream",
+          "American Foods",
+          "Desserts"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 3400,
+      "time": 21,
+      "images": {
+          "logo": "baskinrobbins",
+          "poster": "baskinrobbins",
+          "cover": "baskinrobbins"
+      },
+      "categories": [
+          "6655d08fdb86a312fb912090",
+          "6655d08fdb86a312fb912091",
+          "6655d08fdb86a312fb912092",
+          "6655d08fdb86a312fb912093",
+          "6655d08fdb86a312fb912094",
+          "6655d08fdb86a312fb912095"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312856"
+      },
+      "id": "105",
+      "name": "Starbucks",
+      "type": "Cafe",
+      "tags": [
+          "Coffee",
+          "American Foods",
+          "Tea"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 6600,
+      "time": 36,
+      "images": {
+          "logo": "starbucks",
+          "poster": "starbucks",
+          "cover": "starbucks"
+      },
+      "categories": [
+          "6655d08fdb86a312fb912096",
+          "6655d08fdb86a312fb912097",
+          "Cr\u00c3\u00a8me Frappuccino\u00c2\u00ae",
+          "6655d08fdb86a312fb912099",
+          "6655d08fdb86a312fb91209a",
+          "Coffee Frappuccino\u00c2\u00ae",
+          "Teavana\u00c2\u00ae Tea"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312857"
+      },
+      "id": "106",
+      "name": "Subway",
+      "type": "Take-Away",
+      "tags": [
+          "American Foods",
+          "Burger",
+          "Sandwitch"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 4800,
+      "time": 26,
+      "images": {
+          "logo": "subway",
+          "poster": "subway",
+          "cover": "subway"
+      },
+      "categories": [
+          "6655d08fdb86a312fb91209d",
+          "6655d08fdb86a312fb91209e",
+          "6655d08fdb86a312fb91209f",
+          "6655d08fdb86a312fb9120a0",
+          "6655d08fdb86a312fb9120a1",
+          "6655d08fdb86a312fb9120a2"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "665447ccc17ae8bf07312858"
+      },
+      "id": "107",
+      "name": "KFC",
+      "type": "Dine-In",
+      "tags": [
+          "American Foods",
+          "Chicken"
+      ],
+      "location": "15th Avenue, New york",
+      "distance": 2600,
+      "time": 16,
+      "images": {
+          "logo": "kfc",
+          "poster": "kfc",
+          "cover": "kfc"
+      },
+      "categories": [
+          "6655d08fdb86a312fb9120a3",
+          "6655d08fdb86a312fb91208b",
+          "6655d08fdb86a312fb9120a4",
+          "6655d08fdb86a312fb9120a1",
+          "6655d08fdb86a312fb91208f"
+      ]
+  }
+]

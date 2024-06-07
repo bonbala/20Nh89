@@ -1,0 +1,24 @@
+{
+  "name": "chooseme-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.19.2",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^4.1.2",
+    "morgan": "~1.9.1"
+  },
+  "projectConfig": {
+    "mongoConnectionUrl": "mongodb+srv://nhathieu1805:bon532528@cluster0.ktjozkq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "serverIp": "192.168.1.21",
+    "serverPort": "4000"
+  }
+}
